@@ -8,6 +8,7 @@ public class feature1 : MonoBehaviour
     void Start()
     {
         Debug.Log("this is feature1 script");
+        Debug.Log("HotFix in Dev");
     }
 
     // Update is called once per frame
